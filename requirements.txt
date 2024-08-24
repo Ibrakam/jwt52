@@ -1,0 +1,4 @@
+fastapi
+jwt
+pydantic
+python-dotenv
